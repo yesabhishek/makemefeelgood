@@ -6,7 +6,12 @@
   "engines": {
     "vscode": "^1.74.0"
   },
-  "repository":"",
+  "publisher": "AbhishekChoudhury",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yesabhishek/makemefeelgood"
+  },
   "categories": [
     "Other"
   ],
@@ -33,6 +38,7 @@
     "@types/node": "16.x",
     "@types/vscode": "^1.74.0",
     "@vscode/test-electron": "^2.2.0",
+    "esbuild": "^0.16.14",
     "eslint": "^8.28.0",
     "glob": "^8.0.3",
     "mocha": "^10.1.0",
