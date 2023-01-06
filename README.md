@@ -8,7 +8,7 @@ Utilized open-source API to generate the message which lighten up the mood.
 
 ## Usage
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> Feel Good
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Feel Good
 
 ## Requirements
 
