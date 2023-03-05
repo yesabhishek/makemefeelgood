@@ -1,24 +1,35 @@
 # Make me feel good 😊
 
-Light weight plugin which provide postive motivation whenever they feel tired or out of focus. 
+Motivation to developers when they need it, just some key press away! 
+<br>
 
-## Features
+## Features 🔥
+- Gets your go for the day.
+- Simple to use.
+- Super Fast and lightweight.
+- Frequently updated, keeping best experience.
+- Completely free.
+<br>
 
-Utilized open-source API to generate the message which lighten up the mood.
+## Screenshots & Steps 🪜
 
-## Usage
+![Step 1](https://zablnmnrntrlsvwrzocy.supabase.co/storage/v1/object/public/assets/step1.png)
+- Download the extension <br>
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Feel Good
+![Step 2](https://zablnmnrntrlsvwrzocy.supabase.co/storage/v1/object/public/assets/step2.png?t=2023-03-05T15%3A52%3A52.509Z)
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Feel Good <br>
 
-## Requirements
+![Step 3](https://zablnmnrntrlsvwrzocy.supabase.co/storage/v1/object/public/assets/step3.png?t=2023-03-05T15%3A53%3A32.397Z)
+- Woah! here we go👨🏽‍💻 <br>
 
-No prior requirements, just your plain vanilla VS Code Extension
+## Roadmap 🗺️
+- Improved developer experience.
+- Add AI companion that tracks code health and gives prompt.
+- Code errors to meme generation.
+<br>
 
-## Release Notes
+## Feedback and Contribution 💞
+We would love to hear from you and the experience you had with our tool. Please write us email at *[Abhishek Choudhury](choudhuryabhishek76@gmail.com)*.
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-First ever release. Feel free to raise issue or add features to the extension with a well described PR.
-
+<br><br>
+<center> made with <a href="https://www.abhishekchoudhury.in/">❤️ Abhishek Choudhury</a> </center>

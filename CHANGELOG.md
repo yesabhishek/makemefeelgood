@@ -1,9 +1,16 @@
-# Change Log
+# CHANGELOG.md
 
-All notable changes to the "make-me-feel-good" extension will be documented in this file.
+## 0.0.2 (latest)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Features:
 
-## [Unreleased]
+  - add changelog
+  - update readme
+  - minor fix
 
-- Initial release
+
+## 0.0.1 (2023-01-06)
+
+release:
+
+  - first release
