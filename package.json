@@ -1,8 +1,8 @@
 {
   "name": "make-me-feel-good",
   "displayName": "make me feel good",
-  "description": "Motivation quote to bring back your focus and lighten up the mood.",
-  "version": "0.0.1",
+  "description": "Motivation quote that brought backs your focus and lighten up the mood.",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
